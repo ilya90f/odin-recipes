@@ -1,0 +1,17 @@
+
+* {
+    color: rgb(238, 255, 0);
+    background-color: rgba(0, 0, 0, 0.534);
+}
+
+.center-text{
+    text-align: center;
+}
+
+body {
+    font-family: 'Annie Use Your Telescope';font-size: 22px;
+}
+
+image{
+    align-self: center;
+}
